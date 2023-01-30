@@ -43,6 +43,11 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'picture',
+        message: "What is the filepath for your project picture? (ex: ./pictures/{insertpicturenamehere})(if you don't have one, keep this blank)",
+    },
+    {
+        type: 'input',
         name: 'credits',
         message: 'List any sources that you owe credit to.',
     },

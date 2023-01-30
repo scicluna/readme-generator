@@ -4,7 +4,7 @@
 
   ## Description
 
-  This project builds a professional readme for the user based on a series of prompts in nodejs
+  This application takes in a series of prompted inputs and returns to the user a professional README file.
 
   ## Table of Contents
 
@@ -18,15 +18,17 @@
 
   ## Installation
 
-  Just unzip the file from github, run npm i for the dependencies, and then run it in nodejs
+  To install this project, just unzip the file from github, use npm i to grab its dependencies, and then run it by typing in node index.js through nodejs.
 
   ## Usage
 
-  To use this application, simply run in nodejs and fill out the prompts. Then a professional readme will appear in that same file directory
+  You use this application by filling in all of the requested information so that you can receive a professional README.
+
+  ![](./pictures/Screenshot%202023-01-29%20195931.png)
 
   ## Credits
 
-  
+  Jacob Jeffries
 
   ## License
 
@@ -34,7 +36,7 @@
 
   ## Contributions
 
-  By emailing me at sciclunajl@gmail.com regarding proposed changes and collaboration.
+  Anyone can feel free to fork this project and make additions/contribute to this project. Just send me a pull request on github with the details of your changes and I would be glad to speak to you about them.
 
   ## Tests
 
@@ -44,4 +46,4 @@
 
   1. Where can I find your github so that I can view your other projects? https://github.com/scicluna
 
-  2. What email address should I use to contact you regarding further opportunities or questions? jscicluna@gmail.com
+  2. What email address should I use to contact you regarding further opportunities or questions? sciclunajl@gmail.com
