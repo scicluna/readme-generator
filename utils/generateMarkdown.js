@@ -3,13 +3,13 @@ function renderLicenseBadge(license) {
   if (!license) return ''
 
   switch(license){
-    case ("MIT"):{
+    case "MIT":{
       return '![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)'
     }
-    case ("Apache"):{
+    case "Apache":{
       return '![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)'
     }
-    case ("GPL"):{
+    case "GPL":{
       return '![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)'
     }
     default: break

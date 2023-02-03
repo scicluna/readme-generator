@@ -1,49 +1,49 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-  
-  # README Generator
 
-  ## Description
+# README Generator
 
-  This application takes in a series of prompted inputs and returns to the user a professional README file.
+## Description
 
-  ## Table of Contents
+This application takes in a series of prompted inputs and returns to the user a professional README file.
 
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
-  - [License](#license)
-  - [Contributions](#contributions)
-  - [Tests](#tests)
-  - [Questions](#questions)
+## Table of Contents
 
-  ## Installation
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Contributions](#contributions)
+- [Tests](#tests)
+- [Questions](#questions)
 
-  To install this project, just unzip the file from github, use npm i to grab its dependencies, and then run it by typing in node index.js through nodejs.
+## Installation
 
-  ## Usage
+To install this project, just unzip the file from github, use npm i to grab its dependencies, and then run it by typing in node index.js through nodejs.
 
-  You use this application by filling in all of the requested information so that you can receive a professional README.
+## Usage
 
-  ![](./pictures/Screenshot%202023-01-29%20195931.png)
+You use this application by filling in all of the requested information so that you can receive a professional README.
 
-  ## Credits
+![](./example.png)
 
-  Jacob Jeffries
+## Credits
 
-  ## License
+Jacob Jeffries
 
-  This application is covered under the MIT license. Read more at [License: MIT](https://opensource.org/licenses/MIT)
+## License
 
-  ## Contributions
+This application is covered under the MIT license. Read more at [License: MIT](https://opensource.org/licenses/MIT)
 
-  Anyone can feel free to fork this project and make additions/contribute to this project. Just send me a pull request on github with the details of your changes and I would be glad to speak to you about them.
+## Contributions
 
-  ## Tests
+Anyone can feel free to fork this project and make additions/contribute to this project. Just send me a pull request on github with the details of your changes and I would be glad to speak to you about them.
 
-  By running npm test
+## Tests
 
-  ## Questions
+By running npm test
 
-  1. Where can I find your github so that I can view your other projects? https://github.com/scicluna
+## Questions
 
-  2. What email address should I use to contact you regarding further opportunities or questions? sciclunajl@gmail.com
+1. Where can I find your github so that I can view your other projects? https://github.com/scicluna
+
+2. What email address should I use to contact you regarding further opportunities or questions? sciclunajl@gmail.com
