@@ -1,49 +1,48 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  
+  # Employee Tracker
 
-# README Generator
+  ## Description
 
-## Description
+  This nodejs program uses mysql to keep track of, edit, and maintain a database of employees.
 
-This application takes in a series of prompted inputs and returns to the user a professional README file.
+  ## Table of Contents
 
-## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Contributions](#contributions)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Contributions](#contributions)
-- [Tests](#tests)
-- [Questions](#questions)
+  ## Installation
 
-## Installation
+  Just download the files from my github, run npm i, add your own mysql password to the .env file, and then run node index.js
 
-To install this project, just unzip the file from github, use npm i to grab its dependencies, and then run it by typing in node index.js through nodejs.
+  ## Usage
 
-## Usage
+  Just follow the prompts to either add, delete, edit, or view your employee database
+  ![](a)
 
-You use this application by filling in all of the requested information so that you can receive a professional README.
+  ## Credits
 
-![](./example.png)
+  
 
-## Credits
+  ## License
 
-Jacob Jeffries
+  This application is covered under the MIT license. Read more at [License: MIT](https://opensource.org/licenses/MIT)
 
-## License
+  ## Contributions
 
-This application is covered under the MIT license. Read more at [License: MIT](https://opensource.org/licenses/MIT)
+  Just email me at sciclunajl@gmail.com and I'd be happy to talk to you about the code and collaborate on ways to make it better.
 
-## Contributions
+  ## Tests
 
-Anyone can feel free to fork this project and make additions/contribute to this project. Just send me a pull request on github with the details of your changes and I would be glad to speak to you about them.
+  
 
-## Tests
+  ## Questions
 
-By running npm test
+  1. Where can I find your github so that I can view your other projects? https://github.com/scicluna
 
-## Questions
-
-1. Where can I find your github so that I can view your other projects? https://github.com/scicluna
-
-2. What email address should I use to contact you regarding further opportunities or questions? sciclunajl@gmail.com
+  2. What email address should I use to contact you regarding further opportunities or questions? sciclunajl@gmail.com 
